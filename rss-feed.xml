@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+    <channel>
+        <item turbo="true">
+            <link>https://karkir72.github.io/index.html</link>
+            <turbo:content>
+                <![CDATA[
+                        <header>
+        <h1>Главная-славная страница</h1>
+        <h2>Заголовок второго уровня</h2>
+        <menu>
+            <a href="https://karkir72.github.io/index.html">Эта страница</a>
+            <a href="https://karkir72.github.io/catalog.html">Другая страница</a>
+        </menu>
+    </header>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
