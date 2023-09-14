@@ -4,8 +4,12 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
     <channel>
+	<title>Турбо-канал для теста</title>
+	<description>Тестирование турбо-канала</description>
         <item turbo="true">
             <link>https://karkir72.github.io/index.html</link>
+			<author>Кирилл Карабаза</author>
+			<category>Технологии</category>
             <turbo:content>
                 <![CDATA[
                         <header>
@@ -16,6 +20,18 @@
             <a href="https://karkir72.github.io/catalog.html">Другая страница</a>
         </menu>
     </header>
+	<p>Первая созданная турбо-страница</p>
+                    <p>Эта какая-то пытка, ей богу!</p>
+                    <p>И реально все новички это делают?</p>
+                    <p>Я б не стал на месте новичка :D</p>
+                    <button formaction="tel:+7(123)456-78-90" data-background-color="#5B97B0" data-color="white" data-primary="true">Заказать столик</button>
+                    <div data-block="widget-feedback" data-stick="false">
+                        <div data-block="chat" data-type="whatsapp" data-url="https://whatsapp.com"></div>
+                        <div data-block="chat" data-type="telegram" data-url="http://telegram.com/"></div>
+                        <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/"></div>
+                        <div data-block="chat" data-type="facebook" data-url="https://facebook.com"></div>
+                        <div data-block="chat" data-type="viber" data-url="https://viber.com"></div>
+                    </div>
                 ]]>
             </turbo:content>
         </item>
