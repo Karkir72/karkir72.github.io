@@ -23,7 +23,7 @@
 	<p>Первая созданная турбо-страница</p>
                     <p>Эта какая-то пытка, ей богу!</p>
                     <p>И реально все новички это делают?</p>
-                    <p>Я б не стал на месте новичка :D</p>
+                    <p>Я б не хотел :D</p>
                     <button formaction="tel:+7(123)456-78-90" data-background-color="#5B97B0" data-color="white" data-primary="true">Заказать столик</button>
                     <div data-block="widget-feedback" data-stick="false">
                         <div data-block="chat" data-type="whatsapp" data-url="https://whatsapp.com"></div>
